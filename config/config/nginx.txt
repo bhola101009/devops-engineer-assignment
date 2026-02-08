@@ -1,0 +1,2 @@
+Default Nginx configuration provided by Amazon Linux was used.
+Nginx listens on port 80 and serves content from /usr/share/nginx/html.
